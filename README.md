@@ -1,4 +1,4 @@
-#Simple data scraping program
+# data_scraper
 
 ## to install dependencies
 ```
@@ -10,4 +10,3 @@ npm install
 $ node server.js
 ```
 Go to localhost:8080/scraper
-# data_scraper
